@@ -1,7 +1,7 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <item>
     <version>1.0.3</version>
-    <url>https://github.com/NicolaDB/LatheLab-Updates/releases/download/V1.0.3/LatheLab_Setup_v1.0.3.exe</url>
-    <changelog>https://github.com/NicolaDB/GestoreOfferte/releases/tag/v1.0.3</changelog>
+    <url>https://github.com/NicolaDB/LatheLab-Updates/releases/download/1.1.0/LatheLab_Setup_v1.1.0.exe</url>
+    <changelog>https://github.com/NicolaDB/GestoreOfferte/releases/tag/v1.1.0</changelog>
     <mandatory>false</mandatory>
 </item>
