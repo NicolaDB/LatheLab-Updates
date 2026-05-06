@@ -1,7 +1,7 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <item>
-    <version>1.1.3</version>
-    <url>https://github.com/NicolaDB/LatheLab-Updates/releases/download/1.1.3/LatheLab_Setup_v1.1.3.exe</url>
-    <changelog></changelog>
+    <version>1.1.5</version>
+    <url>https://github.com/NicolaDB/LatheLab-Updates/releases/download/1.1.3/LatheLab_Setup_v1.1.5.exe</url>
+    <changelog>Aggiunto Report commerciale, aggiunto Note e Costi, Bug Fix</changelog>
     <mandatory>false</mandatory>
 </item>
